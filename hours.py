@@ -1,0 +1,5 @@
+hours = input("Enter Hours:")
+hourly_rate = input("Enter Rate:")
+gross_pay = float(hours)*float(hourly_rate)
+gross_pay = round(gross_pay, 2)
+print("Pay:",gross_pay)
