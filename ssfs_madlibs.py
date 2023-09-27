@@ -1,3 +1,6 @@
+#eva d
+#september 27 2023
+#uses input to make a madlib
 
 verb1 = input("Verb ending in -ing:")
 name1 = input("Name of someone at SSFS:")
